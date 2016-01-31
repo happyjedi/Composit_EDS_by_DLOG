@@ -1,0 +1,2 @@
+adminPC\sqlexpress2005
+DB_CEGSA100

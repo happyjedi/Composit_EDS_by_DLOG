@@ -1,0 +1,11 @@
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\bin\Release\CESGA_Client.exe
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\bin\Release\CESGA_Client.pdb
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Release\ResolveAssemblyReference.cache
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Release\CESGA_Client.frmAbout.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Release\CESGA_Client.frmBase.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Release\CESGA_Client.frmChooseKey.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Release\CESGA_Client.Properties.Resources.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Release\GenerateResource.read.1.tlog
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Release\GenerateResource.write.1.tlog
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Release\CESGA_Client.exe
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Release\CESGA_Client.pdb

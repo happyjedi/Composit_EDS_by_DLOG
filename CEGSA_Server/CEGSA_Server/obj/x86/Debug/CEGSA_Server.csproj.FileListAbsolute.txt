@@ -1,0 +1,76 @@
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmAutorization.resources
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\bin\Debug\CEGSA_Server.exe
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\bin\Debug\CEGSA_Server.pdb
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmBase.resources
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmConnection.resources
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.exe
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.pdb
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmClient.resources
+c:\users\admin\documents\visual studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmChangeAdminPass.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\bin\Debug\CEGSA_Server.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\bin\Debug\CEGSA_Server.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmAutorization.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmBase.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmChangeAdminPass.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmClient.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmConnection.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CEGSA_Server\CEGSA_Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmAbout.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.exe
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.pdb
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\bin\Debug\CEGSA_Server.exe
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmAbout.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmAutorization.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmBase.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmChangeAdminPass.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmClient.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmConnection.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.Properties.Resources.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\bin\Debug\CEGSA_Server.pdb
+h:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmFinalMsg.resources
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.exe
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.pdb
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\bin\Debug\CEGSA_Server.exe
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\bin\Debug\CEGSA_Server.pdb
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmAbout.resources
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmAutorization.resources
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmBase.resources
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmChangeAdminPass.resources
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmClient.resources
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmConnection.resources
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmFinalMsg.resources
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\Projects 18.05\Projects\CEGSA_Server\CEGSA_Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.exe
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.pdb
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\bin\Debug\CEGSA_Server.exe
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\bin\Debug\CEGSA_Server.pdb
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmAbout.resources
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmAutorization.resources
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmBase.resources
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmChangeAdminPass.resources
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmClient.resources
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmConnection.resources
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.frmFinalMsg.resources
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.Properties.Resources.resources
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\CEGSA_Server\CEGSA_Server\obj\x86\Debug\GenerateResource.write.1.tlog
+h:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 3 версия\CEGSA_Server(1)\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.exe
+h:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 3 версия\CEGSA_Server(1)\CEGSA_Server\CEGSA_Server\obj\x86\Debug\CEGSA_Server.pdb
+h:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 3 версия\CEGSA_Server(1)\CEGSA_Server\obj\x86\Debug\CEGSA_Server.exe
+h:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 3 версия\CEGSA_Server(1)\CEGSA_Server\obj\x86\Debug\CEGSA_Server.pdb

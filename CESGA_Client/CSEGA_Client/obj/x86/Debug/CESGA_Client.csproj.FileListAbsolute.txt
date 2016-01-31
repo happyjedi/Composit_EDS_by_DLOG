@@ -1,0 +1,31 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CSEGA_Client\CSEGA_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CSEGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.frmBase.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CSEGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CSEGA_Client\CSEGA_Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CSEGA_Client\CSEGA_Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CSEGA_Client\CSEGA_Client\bin\Debug\CESGA_Client.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CSEGA_Client\CSEGA_Client\bin\Debug\CESGA_Client.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CSEGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\COPY of CSEGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CESGA_Client\CSEGA_Client\bin\Debug\CESGA_Client.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CESGA_Client\CSEGA_Client\bin\Debug\CESGA_Client.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.frmBase.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.frmChooseKey.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.frmAbout.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.exe
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.pdb
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\bin\Debug\CESGA_Client.exe
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\bin\Debug\CESGA_Client.pdb
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.frmAbout.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.frmBase.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.frmChooseKey.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\CESGA_Client.Properties.Resources.resources
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ТРТУ\ДИПЛОМ\ТАНЯ\Программа 2 версия\Projects\CESGA_Client\CSEGA_Client\obj\x86\Debug\GenerateResource.write.1.tlog
